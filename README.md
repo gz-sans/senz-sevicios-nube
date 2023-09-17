@@ -23,7 +23,7 @@ Para ejecutar este proyecto, necesitarás:
 
 ## Instalación
 
-1. Clona este repositorio en tu servidor web.
+Clona este repositorio en tu servidor web.
 
 
 1.Configura la conexión a la base de datos en el archivo config.php.
